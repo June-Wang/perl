@@ -28,9 +28,9 @@ my $count=0;
 
 #DB 
 my $db_name="customer";
-my $host="192.168.101.126";
+my $host="x.x.x.x";
 my $user_name="deployer";
-my $password="deployerlefu8";
+my $password="deployer";
 my $port_num=undef;
 my $socket_file=undef;
 
